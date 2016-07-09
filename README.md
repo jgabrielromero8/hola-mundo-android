@@ -1,2 +1,2 @@
 # hola-mundo-android
-Mi primer aplicación en Android, modificado para probar la rama de edición
+Mi primer aplicación en Android, el proyecto viene dentro del archivo zip
